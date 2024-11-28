@@ -1,6 +1,9 @@
 Example Voting (Instavote) App
 =========
 
+Changelog: 
+Change 1 - Commit to main directly. 
+
 Getting started
 ---------------
 
