@@ -1,9 +1,11 @@
 Example Voting (Instavote) App
 =========
 
+
 Changelog: 
-Change 1 - Commit to main directly. 
-Change 1 - Commit to main again. 
+Change 1 - Commit to main directly.   
+Change 1 - Commit to main again.   
+Change 3 - Merge Access only to specific users  
 
 
 Getting started
